@@ -1,2 +1,2 @@
-# College_projects
-In this project, I have made MS Team automation, which is helpful in attending the meeting on MS Teams on time, as we can schedule a time of meeting, and MS Team will open automatically at the scheduled time.
+# MS Teams Automation
+In this, I have made, MS Teams automation, using python programming language.MS Teams automation can be used to automatically open the MS Teams, once the meeting has started, with having prior knowledge of meeting.
